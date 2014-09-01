@@ -13,7 +13,9 @@ TARGETS=\
 	upper_idler_adjuster_axle.stl \
 	upper_idler_adjuster_body.stl \
 	vert_carriage_for_623_dual_bearing_roller.stl \
-	xxl-lcd-mount.stl
+	xxl-lcd-mount.stl \
+	Larger-glass-bed-mount-bracket.stl
+
 
 all: ${TARGETS}
 
